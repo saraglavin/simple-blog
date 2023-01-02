@@ -1,5 +1,5 @@
 # simple-blog
-
+This is a project in a course in VueJS, to display what has been done.
 ## Project setup
 ```
 npm install
