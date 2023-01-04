@@ -56,6 +56,8 @@ export default {
                 headers: {'Content-type' : 'application/json'},
                 body: JSON.stringify(post)
             })
+
+            
         }
 
         return { title, body, tag, handleKeydown, tags, handleSubmit }

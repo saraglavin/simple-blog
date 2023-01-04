@@ -1,5 +1,5 @@
 # simple-blog
-This is a project in a course in VueJS, to display what has been done.
+This is a project in a course in VueJS, to display what has been done. The styling and project overall in not design by me, I have only been following along learning.
 ## Project setup
 ```
 npm install
